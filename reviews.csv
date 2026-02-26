@@ -1,0 +1,55 @@
+text,intent,sentiment
+"What is the price of Prepaid Basic 5GB in India for individual users?",Product Inquiry,Neutral
+"Can you confirm the Postpaid Platinum price in Singapore for enterprise customers?",Product Inquiry,Neutral
+"I would like details about ZENDFiber Home 300 Mbps pricing in Thailand.",Product Inquiry,Neutral
+"The ZENDCloud VM Pro pricing in USA seems reasonable.",Product Inquiry,Positive
+"I am happy with the ZENDBiz Connect 500 plan pricing in India.",Product Inquiry,Positive
+"The ZENDStorage 10TB enterprise price in Singapore is competitive.",Product Inquiry,Positive
+"Pricing for ZENDEnterprise Dedicated in Thailand looks fair.",Product Inquiry,Positive
+"Why is Prepaid Unlimited more expensive in Singapore compared to India?",Product Inquiry,Negative
+"The ZENDOffice Net 1G cost in USA is too high for small businesses.",Product Inquiry,Negative
+"I feel ZENDSmart Traffic pricing in Thailand is expensive.",Product Inquiry,Negative
+
+"I was charged incorrectly for Postpaid Gold in USA this month.",Billing,Negative
+"My consolidated enterprise invoice includes unknown charges.",Billing,Negative
+"Late payment suspension happened even before 7 days.",Billing,Negative
+"The monthly advance billing process is smooth.",Billing,Positive
+"I appreciate the clear breakdown in my ZENDFiber bill.",Billing,Positive
+"Billing for ZENDCloud VM Basic in India was accurate.",Billing,Positive
+"Enterprise invoice format is easy to understand.",Billing,Positive
+"Can you explain why I was billed in advance for ZENDOffice Net 500?",Billing,Neutral
+"I need clarification on my ZENDSmart Parking invoice in Singapore.",Billing,Neutral
+"When is the billing cycle for Prepaid Plus in Thailand?",Billing,Neutral
+
+"I want a refund for ZENDFiber Home 100 Mbps within 7 days as usage is below 10%.",Refund,Neutral
+"Refund policy says full refund within 7 days, can you confirm eligibility?",Refund,Neutral
+"Is ZENDCloud VM Pro refundable after activation?",Refund,Neutral
+"I received a full refund for my cancelled Postpaid Silver plan.",Refund,Positive
+"Refund for ZENDStorage 1TB was processed quickly.",Refund,Positive
+"The refund experience for Prepaid Basic in India was smooth.",Refund,Positive
+"I appreciate the clear refund policy explanation.",Refund,Positive
+"My cloud service refund was denied after activation.",Refund,Negative
+"I did not receive refund despite using less than 10%.",Refund,Negative
+"The refund processing for ZENDEnterprise Ultra is taking too long.",Refund,Negative
+
+"My ZENDFiber Home 1 Gbps connection is not reaching expected speed.",Technical,Negative
+"ZENDCloud VM Enterprise instance is not accessible.",Technical,Negative
+"ZENDSmart Lighting dashboard is not updating in real time.",Technical,Negative
+"The 5G data service on Postpaid Platinum works perfectly.",Technical,Positive
+"ZENDBiz Connect 1G uptime has been excellent so far.",Technical,Positive
+"Cloud backup and disaster recovery worked flawlessly.",Technical,Positive
+"SLA-backed support resolved my MPLS issue quickly.",Technical,Positive
+"What is the SLA uptime percentage for enterprise users?",Technical,Neutral
+"Does ZENDOffice Net 200 include 24x7 technical support?",Technical,Neutral
+"Is there a 1TB cap under Fair Usage policy for unlimited plans?",Technical,Neutral
+
+"I am disappointed that unlimited plans are capped at 1TB per month.",Complaint,Negative
+"The 12-month enterprise contract is too restrictive.",Complaint,Negative
+"Service suspension due to late payment was frustrating.",Complaint,Negative
+"I am satisfied with the 99.9% SLA uptime for enterprise.",Complaint,Positive
+"The GDPR compliance gives confidence in data security.",Complaint,Positive
+"I like the 15% annual payment discount.",Complaint,Positive
+"Bulk enterprise discount up to 30% is beneficial.",Complaint,Positive
+"I would like reconsideration of contract terms.",Complaint,Neutral
+"Please review the service suspension decision.",Complaint,Neutral
+"I need clarification about support tier differences.",Complaint,Neutral
